@@ -1,7 +1,5 @@
 # 怪物追踪行为控制器
 
-[English](https://github.com/your-repo/monster-chase-behaviour-controller/blob/main/README.en.md)
-
 这个项目提供了一个 Unity 脚本，它可以在 Unity 中创建一个怪物追踪行为。当玩家在场景中移动时，怪物会自动追踪并移向玩家，同时在接近其他对象时避开它们。这个脚本应挂载在怪物类型的对象上。
 
 ## 如何安装
